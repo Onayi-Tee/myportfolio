@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">SHAP explanation illustration</title>
+  <desc id="desc">Illustrative SHAP graphic for model interpretability.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="56" width="760" height="504" rx="24" fill="#0f1d2b"/>
+  <rect x="110" y="110" width="680" height="300" rx="18" fill="#112334"/>
+  <g fill="#5eead4">
+    <rect x="142" y="340" width="26" height="48"/>
+    <rect x="185" y="300" width="26" height="88"/>
+    <rect x="228" y="250" width="26" height="138"/>
+    <rect x="271" y="210" width="26" height="178"/>
+    <rect x="314" y="160" width="26" height="228"/>
+    <rect x="357" y="205" width="26" height="183"/>
+    <rect x="400" y="245" width="26" height="143"/>
+    <rect x="443" y="275" width="26" height="113"/>
+  </g>
+  <g fill="#7dd3fc">
+    <rect x="510" y="335" width="26" height="53"/>
+    <rect x="553" y="286" width="26" height="102"/>
+    <rect x="596" y="228" width="26" height="160"/>
+    <rect x="639" y="180" width="26" height="208"/>
+    <rect x="682" y="214" width="26" height="174"/>
+    <rect x="725" y="260" width="26" height="128"/>
+  </g>
+  <rect x="110" y="436" width="680" height="84" rx="18" fill="#112334"/>
+  <text x="132" y="486" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#EDF6FF">SHAP values for risk-driving features</text>
+</svg>

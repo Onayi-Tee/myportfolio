@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Power BI visualisations illustration</title>
+  <desc id="desc">Illustrative page with visual summaries and charts for a Power BI dashboard.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="72" y="60" width="756" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="110" y="104" width="220" height="170" rx="18" fill="#13293d"/>
+  <rect x="360" y="104" width="220" height="170" rx="18" fill="#13293d"/>
+  <rect x="610" y="104" width="180" height="170" rx="18" fill="#13293d"/>
+  <rect x="110" y="304" width="680" height="200" rx="18" fill="#112334"/>
+  <circle cx="222" cy="188" r="46" fill="none" stroke="#5eead4" stroke-width="14" stroke-dasharray="90 160"/>
+  <rect x="404" y="157" width="130" height="16" rx="8" fill="#7dd3fc" opacity="0.8"/>
+  <rect x="404" y="188" width="110" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <g fill="#60a5fa">
+    <rect x="637" y="154" width="18" height="100"/>
+    <rect x="666" y="130" width="18" height="124"/>
+    <rect x="695" y="170" width="18" height="84"/>
+    <rect x="724" y="142" width="18" height="112"/>
+  </g>
+</svg>

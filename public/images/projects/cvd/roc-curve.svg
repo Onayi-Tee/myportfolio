@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">ROC curve illustration</title>
+  <desc id="desc">Illustrative ROC curve chart for evaluating cardiovascular disease prediction models.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="60" width="760" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <g stroke="#31465d" stroke-width="2">
+    <line x1="120" y1="450" x2="760" y2="450"/>
+    <line x1="120" y1="450" x2="120" y2="120"/>
+  </g>
+  <path d="M120 450 L250 350 L410 260 L520 200 L760 120" fill="none" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 450 L250 420 L410 340 L520 280 L760 170" fill="none" stroke="#5eead4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <circle cx="120" cy="450" r="6" fill="#60a5fa"/>
+  <circle cx="760" cy="120" r="6" fill="#60a5fa"/>
+  <text x="150" y="90" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">ROC curve</text>
+</svg>

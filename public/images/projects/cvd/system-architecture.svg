@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">System architecture illustration</title>
+  <desc id="desc">Illustrative architecture diagram for an EHR-based prediction system.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="72" y="60" width="756" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="120" y="180" width="130" height="100" rx="14" fill="#13293d"/>
+  <rect x="320" y="180" width="130" height="100" rx="14" fill="#13293d"/>
+  <rect x="520" y="180" width="130" height="100" rx="14" fill="#13293d"/>
+  <rect x="720" y="180" width="80" height="100" rx="14" fill="#13293d"/>
+  <rect x="320" y="350" width="220" height="110" rx="18" fill="#112334"/>
+  <path d="M250 230 H320 M450 230 H520 M650 230 H720" stroke="#7dd3fc" stroke-width="4" fill="none"/>
+  <path d="M385 280 V350 M385 350 H385" stroke="#7dd3fc" stroke-width="4" fill="none"/>
+  <text x="140" y="236" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">EHR Data</text>
+  <text x="340" y="236" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">BEHRT</text>
+  <text x="536" y="236" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">SHAP</text>
+  <text x="732" y="236" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">CDSS</text>
+  <text x="342" y="408" font-size="24" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">Clinical decision support</text>
+</svg>

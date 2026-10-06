@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Power BI insights illustration</title>
+  <desc id="desc">Illustrative analytical insights panel for a Power BI report.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="60" width="760" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="104" y="96" width="692" height="96" rx="18" fill="#13293d"/>
+  <rect x="104" y="222" width="332" height="250" rx="18" fill="#112334"/>
+  <rect x="464" y="222" width="332" height="250" rx="18" fill="#112334"/>
+  <rect x="140" y="124" width="220" height="18" rx="9" fill="#7dd3fc" opacity="0.8"/>
+  <rect x="140" y="154" width="160" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="138" y="260" width="218" height="16" rx="8" fill="#60a5fa" opacity="0.8"/>
+  <rect x="138" y="298" width="240" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="138" y="328" width="200" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="138" y="358" width="180" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="500" y="260" width="210" height="16" rx="8" fill="#5eead4" opacity="0.8"/>
+  <rect x="500" y="298" width="220" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="500" y="328" width="180" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="500" y="358" width="205" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+</svg>

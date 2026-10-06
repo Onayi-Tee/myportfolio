@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Receipt Tracker upload screen</title>
+  <desc id="desc">Illustrative upload screen for scanning receipts in the Smart Receipt Tracker app.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="80" y="60" width="740" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="140" y="118" width="620" height="332" rx="22" fill="#112334" stroke="#2b3a4a"/>
+  <rect x="332" y="182" width="236" height="196" rx="24" fill="#13293d"/>
+  <path d="M370 290 L450 210 L530 290" stroke="#7dd3fc" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M450 210 V330" stroke="#7dd3fc" stroke-width="10" stroke-linecap="round"/>
+  <rect x="180" y="480" width="220" height="42" rx="12" fill="#5eead4"/>
+  <rect x="430" y="480" width="220" height="42" rx="12" fill="#60a5fa"/>
+</svg>

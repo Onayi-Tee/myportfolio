@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Power BI filters and slicers illustration</title>
+  <desc id="desc">Illustrative filter panel with slicers and controls for a Power BI dashboard.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="60" width="760" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="108" y="116" width="200" height="340" rx="18" fill="#112334"/>
+  <rect x="360" y="116" width="408" height="340" rx="18" fill="#112334"/>
+  <rect x="130" y="152" width="150" height="14" rx="7" fill="#7dd3fc" opacity="0.8"/>
+  <rect x="130" y="196" width="120" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="130" y="230" width="136" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <rect x="130" y="264" width="110" height="12" rx="6" fill="#aebed2" opacity="0.7"/>
+  <g fill="#60a5fa">
+    <rect x="396" y="150" width="110" height="20" rx="10"/>
+    <rect x="396" y="206" width="146" height="20" rx="10"/>
+    <rect x="396" y="262" width="152" height="20" rx="10"/>
+    <rect x="396" y="318" width="128" height="20" rx="10"/>
+  </g>
+</svg>

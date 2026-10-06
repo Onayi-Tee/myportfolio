@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Model comparison chart illustration</title>
+  <desc id="desc">Illustrative chart comparing performance metrics for cardiovascular prediction models.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="60" width="760" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <g stroke="#31465d" stroke-width="2">
+    <line x1="120" y1="450" x2="760" y2="450"/>
+    <line x1="120" y1="450" x2="120" y2="120"/>
+    <line x1="120" y1="370" x2="760" y2="370"/>
+    <line x1="120" y1="290" x2="760" y2="290"/>
+    <line x1="120" y1="210" x2="760" y2="210"/>
+  </g>
+  <g>
+    <rect x="178" y="240" width="52" height="210" rx="10" fill="#60a5fa"/>
+    <rect x="270" y="198" width="52" height="252" rx="10" fill="#7dd3fc"/>
+    <rect x="362" y="150" width="52" height="300" rx="10" fill="#5eead4"/>
+    <rect x="454" y="210" width="52" height="240" rx="10" fill="#60a5fa"/>
+    <rect x="546" y="175" width="52" height="275" rx="10" fill="#7dd3fc"/>
+    <rect x="638" y="135" width="52" height="315" rx="10" fill="#5eead4"/>
+  </g>
+  <text x="120" y="90" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#edf6ff">Model comparison</text>
+</svg>

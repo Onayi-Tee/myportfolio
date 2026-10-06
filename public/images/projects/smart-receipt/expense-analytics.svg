@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Receipt Tracker expense analytics illustration</title>
+  <desc id="desc">Illustrative analytics view of expense trends and receipt categories.</desc>
+  <rect width="900" height="620" fill="#081927"/>
+  <rect x="70" y="60" width="760" height="500" rx="24" fill="#0f1d2b" stroke="#2b3a4a"/>
+  <rect x="110" y="104" width="210" height="90" rx="18" fill="#13293d"/>
+  <rect x="350" y="104" width="210" height="90" rx="18" fill="#13293d"/>
+  <rect x="590" y="104" width="180" height="90" rx="18" fill="#13293d"/>
+  <rect x="110" y="220" width="660" height="254" rx="18" fill="#112334"/>
+  <path d="M160 420 C230 365, 255 325, 330 350 S480 390, 540 320 S640 250, 730 290" fill="none" stroke="#73d2ff" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="160" cy="420" r="7" fill="#5eead4"/>
+  <circle cx="330" cy="350" r="7" fill="#7dd3fc"/>
+  <circle cx="540" cy="320" r="7" fill="#5eead4"/>
+  <circle cx="730" cy="290" r="7" fill="#60a5fa"/>
+  <text x="132" y="140" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#b5c7dc">Total Spend</text>
+  <text x="372" y="140" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#b5c7dc">Top Category</text>
+  <text x="610" y="140" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#b5c7dc">Avg. Receipt</text>
+</svg>
